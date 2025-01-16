@@ -7,7 +7,7 @@ This project demonstrates the use of Object-Relational Mapping (ORM) to interact
 - **ORM**: Simplifies database operations by providing an abstraction layer for database tables and queries.
 - **Migrations**: Helps track and apply schema changes consistently across environments.
 
-This project uses [Your ORM Name, e.g., Prisma/Sequelize/TypeORM] to manage the database and migrations.
+This project uses [e.g., Prisma/Sequelize/TypeORM] to manage the database and migrations.
 
 ---
 
